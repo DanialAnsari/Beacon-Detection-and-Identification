@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeaconDetecting</string>
+    <string name="title_activity_view__image">View_Image</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_beacon_scanning">BeaconScanning</string>
+</resources>
